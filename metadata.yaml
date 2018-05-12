@@ -1,4 +1,8 @@
 _repo: Rubaiyat-of-a-Motor-Car_51064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51064-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Carolyn
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: http://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51064#Rubaiyat-of-a-Motor-Car
 gutenberg_issued: '2016-01-28'
 gutenberg_type: Text
 identifiers:
